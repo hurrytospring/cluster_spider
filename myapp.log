@@ -1,0 +1,11 @@
+Fri, 03 Mar 2017 14:58:19 selector_events.py[line:53] DEBUG Using selector: SelectSelector
+Fri, 03 Mar 2017 14:58:19 selfspider.py[line:32] WARNING hahahahahha
+Fri, 03 Mar 2017 14:58:19 selfspider.py[line:39] INFO start get the 1 data
+Fri, 03 Mar 2017 14:58:38 selfspider.py[line:50] INFO json start
+Fri, 03 Mar 2017 14:58:38 selfspider.py[line:54] INFO json end && write start
+Fri, 03 Mar 2017 14:58:38 selfspider.py[line:57] INFO write end
+Fri, 03 Mar 2017 14:58:40 selfspider.py[line:50] INFO json start
+Fri, 03 Mar 2017 14:58:40 selfspider.py[line:52] INFO end get the 2 data
+Fri, 03 Mar 2017 14:58:40 selfspider.py[line:39] INFO start get the 2 data
+Fri, 03 Mar 2017 14:59:02 selfspider.py[line:27] ERROR CancelledError()
+Fri, 03 Mar 2017 14:59:02 selfspider.py[line:50] INFO json start

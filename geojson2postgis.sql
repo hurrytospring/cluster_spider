@@ -1,0 +1,1 @@
+CREATE TABLE %S (UUID string(),fields string(),geom geometry(POINT,4326))
