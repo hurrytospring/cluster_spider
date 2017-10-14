@@ -7,8 +7,10 @@ from .logconfig import logging
 import time
                 
 class spider():
+
     def __init__(seeds):
-        self.seeds=seeds
+        self.seeds=selkkljljleds
+        
     def run(self):
         loop = asyncio.get_event_loop()
         loop.run_until_complete(main(loop))
